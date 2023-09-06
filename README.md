@@ -1,3 +1,3 @@
 # site
 
-hello world
+hello world, welcome to my site
